@@ -1,0 +1,8 @@
+description: "Create a REST API in python using FastAPI"
+version: 0.0.1
+variables:  
+  - name: tests
+    type: boolean
+
+  - name: cli
+    type: boolean

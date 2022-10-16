@@ -1,0 +1,8 @@
+-r prod.txt
+
+black
+isort
+{% if tests %}
+# test requirements
+pytest
+{% endif %}
