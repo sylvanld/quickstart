@@ -11,7 +11,7 @@ quickstart template install github-action                                       
           --tar https://github.com/sylvanld/action-storage/archive/refs/tags/v1.tar.gz
 ```
 
-List avaiable templates
+List available templates
 
 ```
 quickstart template list
