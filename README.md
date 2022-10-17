@@ -7,7 +7,8 @@ Quickstart is a command line tools that help you quickly creating project from t
 Install a new template from a github repository
 
 ```
-quickstart template install github-action --tar https://github.com/sylvanld/action-storage/archive/refs/tags/v1.tar.gz
+quickstart template install github-action                                                 \
+          --tar https://github.com/sylvanld/action-storage/archive/refs/tags/v1.tar.gz
 ```
 
 List avaiable templates
